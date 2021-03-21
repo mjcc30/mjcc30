@@ -25,3 +25,5 @@ Here are some ideas to get you started:
   <a href="https://github.com/mjcc30"><img src"" alt="Github"></a>
   <a href="https://www.linkedin.com/in/maximecordeiro/"><img src"" alt="Linkedin"></a>
 </p>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mjcc30)](https://github.com/anuraghazra/github-readme-stats)
