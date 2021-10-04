@@ -14,9 +14,11 @@ Here are some ideas to get you started:
     - NeocracyBlog using gatsby
 - 🌱 I’m currently learning 
     - React
+    - React Native
     - Typescript
-    - Graphql
-    - php
+    - bit.dev
+    - TDD
+    - DDD
 - 📫 How to reach me:
      - You can visit my linkedin page :
        - https://www.linkedin.com/in/maximecordeiro/
